@@ -1,1 +1,2 @@
 Mars' mass is 6.4e23 kg.
+Mars' diameter is 6'800 km.
